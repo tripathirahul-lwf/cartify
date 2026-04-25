@@ -36,7 +36,7 @@ const Footer = () => {
       </div>
 
       <div className="max-w-7xl mx-auto border-t border-slate-800 mt-12 pt-8 text-xs text-center">
-        © {new Date().getFullYear()} LuxeCart. All rights reserved. Built for excellence.
+        © {new Date().getFullYear()} Cartify. All rights reserved. Built for excellence.
       </div>
     </footer>
   );
